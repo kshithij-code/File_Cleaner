@@ -6,7 +6,6 @@ from tkinter import filedialog
 from tkinter.ttk import *
 from icecream import ic
 
-
 class FileCleaner:
     def __init__(self):
         self.path = ""
